@@ -7,7 +7,12 @@ Contem alguns codigos de desafios do curso da Alura: Lógica de programação: m
 Link: https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript
 ----------------
 
----Em andamento---
+---Finalizado---
 Curso 2: Lógica de programação: explore funções e listas
 Link: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas
+------------------
+
+---Em andamento---
+Curso 3: Git e GitHub: compartilhando e colaborando em projetos
+Link: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos
 ------------------
