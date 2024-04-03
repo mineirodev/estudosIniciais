@@ -15,4 +15,6 @@ Link: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas
 ---Em andamento---
 Curso 3: Git e GitHub: compartilhando e colaborando em projetos
 Link: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos
+
+*Repositorio para teste de funcionalidade do Git/GitHub: https://github.com/mineirodev/CursoGit-NumSercreto
 ------------------
