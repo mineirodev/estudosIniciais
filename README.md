@@ -1,20 +1,10 @@
-# estudosIniciais
-Repositorio para estudos iniciais de programação
+# Repositorio para estudos iniciais de programação
 
 
----Finalizado---
-Contem alguns codigos de desafios do curso da Alura: Lógica de programação: mergulhe em programação com JavaScript
-Link: https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript
-----------------
+Curso 1: [Lógica de programação: mergulhe em programação com JavaScript](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) [X]Finalizado
 
----Finalizado---
-Curso 2: Lógica de programação: explore funções e listas
-Link: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas
-------------------
+Curso 2: [Lógica de programação: explore funções e listas](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas) [X]Finalizado
 
----Em andamento---
-Curso 3: Git e GitHub: compartilhando e colaborando em projetos
-Link: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos
+Curso 3: [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos) [ ]Finalizado
+- Repositorio para teste de funcionalidade do Git/GitHub: [Numero Secreto](https://github.com/mineirodev/CursoGit-NumSercreto)
 
-*Repositorio para teste de funcionalidade do Git/GitHub: https://github.com/mineirodev/CursoGit-NumSercreto
-------------------
