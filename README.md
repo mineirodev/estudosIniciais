@@ -9,3 +9,4 @@ Curso 3: [Git e GitHub: compartilhando e colaborando em projetos](https://cursos
 - Repositorio para teste de funcionalidade do Git/GitHub: [Numero Secreto](https://github.com/mineirodev/CursoGit-NumSercreto)
 
 Curso 4: [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios) [ ] Finalizado
+-Repositario para primeiro Projeto de desafio [Sorteador de Numeros](https://github.com/mineirodev/Sorteador-Numeros)
