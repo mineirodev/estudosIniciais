@@ -11,3 +11,4 @@ Curso 3: [Git e GitHub: compartilhando e colaborando em projetos](https://cursos
 Curso 4: [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios) [ ] Finalizado
 - Repositario para primeiro Projeto de desafio [Sorteador de Numeros](https://github.com/mineirodev/Sorteador-Numeros)
 - Repositario para segundo Projeto de desafio [Alura Games](https://github.com/mineirodev/AluGames)
+- Repositario para terceiro Projeto de desafio [Carrinho de compras](https://github.com/mineirodev/CarrinhoCompras)
