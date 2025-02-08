@@ -12,3 +12,4 @@ Curso 4: [Lógica de programação: praticando com desafios](https://cursos.alur
 - Repositario para primeiro Projeto de desafio [Sorteador de Numeros](https://github.com/mineirodev/Sorteador-Numeros)
 - Repositario para segundo Projeto de desafio [Alura Games](https://github.com/mineirodev/AluGames)
 - Repositario para terceiro Projeto de desafio [Carrinho de compras](https://github.com/mineirodev/CarrinhoCompras)
+- Repositario para quarto Projeto de desafio [Amigo secreto](https://github.com/mineirodev/AmigoSecreto)
